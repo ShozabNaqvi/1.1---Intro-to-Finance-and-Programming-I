@@ -1,2 +1,2 @@
-# 1.1---Intro-to-Finance-and-Programming-I
-First Homework
+BLOCKCHAIN AND CRYPTOCURRENCY
+Crypto currency is regarded as a digital currecny, which can conseidered as a medium of exchange for a trasaction. The uniqueness and relaibility of the transaction can be assured due to the usage of cryptography, which ensures the storage and transmission  of the data to the intended perso only.  (https://economictimes.indiatimes.com/definition/cryptography,10S-ept-20)
