@@ -37,6 +37,7 @@
 1.	Transaction time 
 2.	Transaction fee
 3.	Volume of Transactions
+
 *Based on the 2 of the above provided metrics, Transaction time and Fee, Ripple has been performing really well in the market as it not only charges minimum but also takes least time to complete the transaction.
 
 * Though, in comparison to its competitors Ripple is doing good in terms of time and fee, however the supply for ripple is much more that of its competitors as a result of which it is difficult for the company to have the advantage of pricing due to Economic Demand Supply Gap
